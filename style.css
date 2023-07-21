@@ -42,14 +42,17 @@
     flex-direction: column;
     gap: 20px;
 }
-#meio-capa {
+.meio-capa {
     display: flex;
     justify-content: center;
 }
 #capa {
     width: 25%;
-    display: flex;
     padding: 10px 0 60px 0;
+}
+#imagem {
+    width: 75%;
+    padding: 10px 0 10px 0;
 }
 .info {
     color: #004a4d;
