@@ -48,11 +48,18 @@
 }
 #capa {
     width: 25%;
-    padding: 10px 0 60px 0;
+    margin: 10px 0 60px 0;
 }
 #imagem {
     width: 75%;
-    padding: 10px 0 10px 0;
+    margin: 20px 0 20px 0;
+}
+#imagem-dom-quixote {
+    width: 20rem;
+    margin: 20px 0 20px 0;
+}
+#estrelas-avaliacao {
+    width: 30%;
 }
 .info {
     color: #004a4d;
